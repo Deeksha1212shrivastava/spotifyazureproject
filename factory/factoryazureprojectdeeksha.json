@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureprojectdeeksha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d0bd1d75-3767-49cb-8ab8-fece6377c3ba",
+		"tenantId": "88a5e380-7547-444b-8554-a348dcca2765"
+	}
+}
